@@ -1,10 +1,8 @@
-👋 HI MY NAME IS RAJMIRI 
-👀 I’m interested in web development
-🌱 I’m currently learning programing languages and their frameworks
-💞️ I’m looking to collaborate on who can  increase my Coding Capabilities. 
-📫 How to reach me please suggestions 
 
-<!---
-rajmiri/rajmiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Rajmiri!
+👀 I’m passionate about web development 
+🌱 and currently diving into various      programming languages and frameworks.
+ 
+💞️I’m eager to collaborate with anyone who can help enhance my coding skills.
+📫Feel free to reach out to me at Rajmiri1992@gmail.com.
+
